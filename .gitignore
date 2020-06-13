@@ -1,0 +1,17 @@
+# IDEs
+.idea/
+.vscode/
+
+# __pycache__
+__pycache__/
+
+# venv
+.venv
+venv
+.env
+
+# mypy
+.mypy_cache/
+
+# Hypothesis
+.hypothesis/
